@@ -3,15 +3,13 @@
 
 
 
-- 🔭 I’m currently working with **AdEase Startup.**
-
-- 🌱 I’m currently learning **ML-Ops.**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects.**
 
-- 💬 Ask me about **python,tensorflow**
+- 💬 Ask me about **Python, Deep Learning, Computer Vision**
 
-- 📫 How to reach me **harshitaggarwal5401@gmail.com**
+- 📫 How to reach me **pm4043@srmist.edu.in**
 
 - ⚡ Fun fact **It really doesn't matter how many courses you have done if you don't have a project for each one of them.**
 
