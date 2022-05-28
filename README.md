@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pm4043@srmist.edu.in**
 
-- ⚡ Fun fact **It really doesn't matter how many courses you have done if you don't have a project for each one of them.**
+- ⚡ Fun fact **I am from the future and I won the Turing Award**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
