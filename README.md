@@ -13,6 +13,16 @@
 
 - ⚡ Fun fact **I am from the future and I won the Turing Award**
 
+
+<h3 align="left">Recent Blogs</h3>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0" alt="Recent Article 0"/> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/1">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/1" alt="Recent Article 1"/> 
+  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranavgupta2003/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranavgupta2003" height="30" width="40" />LinkedIn</a>&nbsp &nbsp &nbsp
@@ -25,5 +35,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v4rzmjt5bzz3k6wgmgncsp0ei&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=v4rzmjt5bzz3k6wgmgncsp0ei&redirect=true)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0" alt="Recent Article 0"/> 
+
