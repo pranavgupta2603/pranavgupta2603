@@ -25,4 +25,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v4rzmjt5bzz3k6wgmgncsp0ei&cover_image=true&theme=default&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=v4rzmjt5bzz3k6wgmgncsp0ei&redirect=true)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0" alt="Recent Article 0"> 
