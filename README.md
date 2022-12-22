@@ -23,14 +23,10 @@
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/1" alt="Recent Article 1"/> 
   
 # 📊 GitHub Stats:
-
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=pranavgupta2603&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img align='right' src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="270"> 
-
+ 
 ![](https://github-readme-stats.vercel.app/api?username=pranavgupta2603&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranavgupta2603&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgupta2603&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="270"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
