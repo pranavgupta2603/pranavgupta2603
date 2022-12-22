@@ -15,7 +15,7 @@
 
 # Github Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=Hrithik2212&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pranavgupta2603&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # Recent Blogs:
 
