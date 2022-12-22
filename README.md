@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am from the future and I won the Turing Award**
 
-#Trophies
+# Github Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=Hrithik2212&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
