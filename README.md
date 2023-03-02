@@ -2,9 +2,6 @@
 <h3 align="center"></h3>
 
 
-
-- 🌱 I’m currently learning **NLP**
-
 - 👯 I’m looking to collaborate on **Deep Learning Projects.**
 
 - 💬 Ask me about **Python, Deep Learning, Computer Vision**
