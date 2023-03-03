@@ -15,12 +15,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=pranavgupta2603&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # Recent Blogs:
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0">
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0" alt="Recent Article 0"/> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/0">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/1" alt="Recent Article 1"/> 
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/1">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/1" alt="Recent Article 1"/> 
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@pranavgupta2609/2" alt="Recent Article 2"/> 
   
 # 📊 GitHub Stats:
  
