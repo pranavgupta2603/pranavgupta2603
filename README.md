@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects.**
 
-- 💬 Ask me about **Python, Deep Learning, Computer Vision**
+- 💬 Researching on **Diffusion Models, Image-Text representations**
 
 - 📫 How to reach me **pm4043@srmist.edu.in**
 
