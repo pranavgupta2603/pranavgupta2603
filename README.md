@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I am from the future and I won the Turing Award**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavgupta2603&label=Profile%20views&color=0e75b6&style=flat" alt="pranavgupta2603"/> </p>
+
 # Github Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=pranavgupta2603&theme=radical&no-frame=false&no-bg=true&margin-w=4)
