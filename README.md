@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav Gupta</h1>
 <h3 align="center"></h3>
 
+# Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgupta2003/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pranavgupta2609) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pranavgupta2603) 
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects.**
 
@@ -31,11 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pranavgupta2603&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pranavgupta2603&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgupta2603&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgupta2003/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pranavgupta2609) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pranavgupta2603) 
-
-
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavgupta2603&show_icons=true&locale=en&layout=compact" alt="pranavgupta2603" /></p>
 
