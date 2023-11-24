@@ -33,9 +33,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavgupta2603&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/pranavgupta2003/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranavgupta2003" height="30" width="40" />LinkedIn</a>&nbsp &nbsp &nbsp
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranavgupta2003/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pranavgupta2609) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/pranavgupta2603) 
+
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavgupta2603&show_icons=true&locale=en&layout=compact" alt="pranavgupta2603" /></p>
