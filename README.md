@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranav Gupta</h1>
 <h3 align="center"></h3>
 
-# Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgupta2003/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pranavgupta2609) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pranavgupta2603) 
 
 - 👯 I’m looking to collaborate on **Deep Learning Projects.**
 
@@ -11,6 +9,9 @@
 - 📫 How to reach me **pm4043@srmist.edu.in**
 
 - ⚡ Fun fact **I am from the future and I won the Turing Award**
+
+# Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavgupta2003/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pranavgupta2609) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pranavgupta2603) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavgupta2603&label=Profile%20views&color=0e75b6&style=flat" alt="pranavgupta2603"/> </p>
 
