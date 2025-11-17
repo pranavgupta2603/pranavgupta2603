@@ -6,7 +6,7 @@
 
 - 💬 Researching on **Diffusion Models, Image-Text representations**
 
-- 📫 How to reach me **pm4043@srmist.edu.in**
+- 📫 How to reach me **gpranav@umich.edu**
 
 - ⚡ Fun fact **I am from the future and I won the Turing Award**
 
